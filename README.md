@@ -339,7 +339,7 @@ Các loại job (tin tức, email, báo cáo Excel, watch OneDrive folder) đị
 ## Project Structure
 
 ```text
-greennode-data-agent/
+zalopay_data_agent/
 ├── app/                      # Core agent (xem app/README.md cho chi tiết)
 │   ├── main.py               # FastAPI: webhook, OAuth callback, chart serving, health
 │   ├── agent.py              # Data Agent — LangChain ReAct, system prompt, auto-compact
