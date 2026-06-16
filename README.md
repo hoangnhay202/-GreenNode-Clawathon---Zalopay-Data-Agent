@@ -34,7 +34,7 @@
 
 Phân tích dữ liệu và viết báo cáo định kỳ là việc **ai cũng phải làm**, nhưng công cụ kết nối với **server/database** thì không dễ dàng sử dụng cho **nhóm non-tech**:
 
-1. **Khối non-tech bị chặn ở khâu công cụ.** PO, Operations, Legal, Sale, Marketing có dữ liệu (nằm rải rác trong các file Excel trên OneDrive) nhưng không biết SQL, không có quyền truy cập database/server, không dựng được dashboard.
+1. **Khối non-tech bị khó ở khâu công cụ kĩ thuật.** PO, Operations, Legal, Sale, Marketing có dữ liệu (nằm rải rác trong các file Excel trên OneDrive) nhưng không biết SQL, không có quyền truy cập database/server.
 2. **Báo cáo định kỳ tốn thời gian và dễ trễ.** Mỗi sáng/mỗi tuần lại mở file, lọc, tính, copy vào email/Teams gửi cho sếp và team — thủ công, lặp đi lặp lại, và hay quên.
 3. **Quyết định thiếu căn cứ thống kê.** "Tính năng mới có thật sự tốt hơn không?", "Kênh marketing nào hiệu quả?" — thường được trả lời bằng cảm tính thay vì kiểm định thống kê.
 
